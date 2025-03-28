@@ -1,8 +1,4 @@
-Voici un fichier README bien structuré et décoré pour ton projet e-commerce :  
-
----
-
-# 🛒 **E-Commerce Platform**  
+# 🛒 **Amaton**  
 
 🚀 Plateforme de vente en ligne avec une gestion avancée des produits, commandes et utilisateurs.  
 
